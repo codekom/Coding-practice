@@ -1,4 +1,4 @@
-def reverse():
+def reverse_words():
     t = int(input())
     while t>0:
         s = input()
@@ -9,4 +9,4 @@ def reverse():
         t-=1
 
 if __name__ == "__main__":
-    reverse()
+    reverse_words()
