@@ -1,1 +1,1 @@
-Solution for some problems on LintCode and LeetCode
+Solution for some problems LeetCode
