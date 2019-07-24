@@ -1,1 +1,1 @@
-Solution for some problems LeetCode
+Solution for some problems LeetCode & GeeksForGeeks
